@@ -1,4 +1,4 @@
-[Send Current URL to API](https://syntaxwardley.replit.com/v2/openmap?url=https://github.com/tractorjuice/MAP-REPOSITORY/edit/main/agriculture/agriculture-food-traceability%20and%20security.md)
+// Copy this URL to edit this map. https://syntaxwardley.replit.com/v2/openmap?url=https://github.com/tractorjuice/MAP-REPOSITORY/edit/main/agriculture/agriculture-food-traceability%20and%20security.md)
 
 title AGRICULTURE - traceability / security - FEB 2023
 evolution genesis / concept -> custom / emerging -> product/ converging -> commodity / accepted
