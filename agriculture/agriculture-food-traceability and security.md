@@ -1,22 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>API Button Example</title>
-    <script>
-        function sendUrlToApi() {
-            const currentUrl = window.location.href;
-            fetch('https://syntaxwardley.repit.com/v2/openmap?url=' + encodeURIComponent(currentUrl))
-                .then(response => response.json())
-                .then(data => console.log(data))
-                .catch(error => console.error('Error:', error));
-        }
-    </script>
-</head>
-<body>
-    <button onclick="sendUrlToApi()">Send URL to API</button>
-</body>
-</html>
-
+[Send Current URL to API](https://syntaxwardley.replit.com/v2/openmap?url=https://github.com/tractorjuice/MAP-REPOSITORY/edit/main/agriculture/agriculture-food-traceability%20and%20security.md)
 
 title AGRICULTURE - traceability / security - FEB 2023
 evolution genesis / concept -> custom / emerging -> product/ converging -> commodity / accepted
